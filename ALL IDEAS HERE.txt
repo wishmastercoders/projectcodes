@@ -1,3 +1,10 @@
 #Please write all your ideas regarding the project here before starting...
 
---->
+--> We will to create a subway surfer game where the game character will move forward backward and left and right to skip the random obstacle
+we use it mainly by function
+void move()
+void logic()
+and few that i forgot
+we take the movement input by get()
+basic matrix of this will be in 5x10.
+2 are boundries and remaining are for game character.
